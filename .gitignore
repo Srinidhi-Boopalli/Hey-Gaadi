@@ -1,0 +1,49 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Model weights (too large for git — use git-lfs or HuggingFace Hub)
+intent/model/hey_gaadi_muril/
+wake_word/hey_gaadi.onnx
+wake_word/training_data/
+
+# Benchmark outputs (add after running)
+benchmark/results/
+
+# Audio temp files
+*.wav
+utterance.wav
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+intent/logs/
