@@ -1,0 +1,16 @@
+sample_id,text,intent,language,group_id,split,source
+weather_temperature_en,How hot is it outside?,weather,en,weather_temperature,validation,authored_synthetic
+weather_temperature_hi-Latn,Bahar kitni garmi hai?,weather,hi-Latn,weather_temperature,validation,authored_synthetic
+weather_temperature_hi,बाहर कितनी गर्मी है?,weather,hi,weather_temperature,validation,authored_synthetic
+navigation_fuel_en,Find a route to a petrol pump,navigation,en,navigation_fuel,validation,authored_synthetic
+navigation_fuel_hi-Latn,Petrol pump tak jaane ka rasta batao,navigation,hi-Latn,navigation_fuel,validation,authored_synthetic
+navigation_fuel_hi,पेट्रोल पंप तक जाने का रास्ता बताओ,navigation,hi,navigation_fuel,validation,authored_synthetic
+hvac_temperature_en,Set the cabin temperature to 22 degrees,hvac,en,hvac_temperature,validation,authored_synthetic
+hvac_temperature_hi-Latn,Cabin ka temperature 22 degree karo,hvac,hi-Latn,hvac_temperature,validation,authored_synthetic
+hvac_temperature_hi,केबिन का तापमान 22 डिग्री करो,hvac,hi,hvac_temperature,validation,authored_synthetic
+media_next_en,Skip to the next song,media,en,media_next,validation,authored_synthetic
+media_next_hi-Latn,Agla gaana lagao,media,hi-Latn,media_next,validation,authored_synthetic
+media_next_hi,अगला गाना लगाओ,media,hi,media_next,validation,authored_synthetic
+unknown_message_en,Send a message to my friend,unknown,en,unknown_message,validation,authored_synthetic
+unknown_message_hi-Latn,Mere dost ko message bhejo,unknown,hi-Latn,unknown_message,validation,authored_synthetic
+unknown_message_hi,मेरे दोस्त को संदेश भेजो,unknown,hi,unknown_message,validation,authored_synthetic

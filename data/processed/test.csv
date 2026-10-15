@@ -1,0 +1,16 @@
+sample_id,text,intent,language,group_id,split,source
+weather_forecast_en,Tell me tomorrow’s forecast,weather,en,weather_forecast,test,authored_synthetic
+weather_forecast_hi-Latn,Kal ka mausam batao,weather,hi-Latn,weather_forecast,test,authored_synthetic
+weather_forecast_hi,कल का मौसम बताओ,weather,hi,weather_forecast,test,authored_synthetic
+navigation_office_en,Take me to my office,navigation,en,navigation_office,test,authored_synthetic
+navigation_office_hi-Latn,Mujhe office le chalo,navigation,hi-Latn,navigation_office,test,authored_synthetic
+navigation_office_hi,मुझे ऑफिस ले चलो,navigation,hi,navigation_office,test,authored_synthetic
+hvac_speed_en,Increase the fan speed,hvac,en,hvac_speed,test,authored_synthetic
+hvac_speed_hi-Latn,Pankhe ki speed badhao,hvac,hi-Latn,hvac_speed,test,authored_synthetic
+hvac_speed_hi,पंखे की गति बढ़ाओ,hvac,hi,hvac_speed,test,authored_synthetic
+media_volume_en,Lower the music volume,media,en,media_volume,test,authored_synthetic
+media_volume_hi-Latn,Gaane ki awaaz kam karo,media,hi-Latn,media_volume,test,authored_synthetic
+media_volume_hi,गाने की आवाज़ कम करो,media,hi,media_volume,test,authored_synthetic
+unknown_math_en,What is twelve times five?,unknown,en,unknown_math,test,authored_synthetic
+unknown_math_hi-Latn,Barah guna paanch kitna hai?,unknown,hi-Latn,unknown_math,test,authored_synthetic
+unknown_math_hi,बारह गुना पाँच कितना है?,unknown,hi,unknown_math,test,authored_synthetic

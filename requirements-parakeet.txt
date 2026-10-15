@@ -1,0 +1,2 @@
+# Optional: use a separate Python 3.12 environment for NeMo benchmarks.
+nemo_toolkit[asr]>=2.4,<3

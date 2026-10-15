@@ -1,0 +1,5 @@
+sample_id,audio_path,transcript,intent,language,speaker_id,condition
+record_001,audio/ac_on_hi.wav,एसी चालू करो,hvac,hi,speaker_01,quiet
+record_002,audio/ac_on_hi_traffic.wav,एसी चालू करो,hvac,hi,speaker_01,traffic
+record_003,audio/weather_en.wav,Weather in Bengaluru,weather,en,speaker_02,quiet
+record_004,audio/weather_en_traffic.wav,Weather in Bengaluru,weather,en,speaker_02,traffic

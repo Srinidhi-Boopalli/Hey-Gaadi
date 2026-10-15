@@ -1,0 +1,91 @@
+sample_id,text,intent,language,group_id,split,source
+expanded_weather_humidity_en,Is it humid outside?,weather,en,expanded_weather_humidity,train,authored_synthetic
+expanded_weather_humidity_hi-Latn,Bahar nami kitni hai?,weather,hi-Latn,expanded_weather_humidity,train,authored_synthetic
+expanded_weather_humidity_hi,बाहर नमी कितनी है?,weather,hi,expanded_weather_humidity,train,authored_synthetic
+expanded_weather_wind_en,How strong is the wind?,weather,en,expanded_weather_wind,train,authored_synthetic
+expanded_weather_wind_hi-Latn,Hawa kitni tez chal rahi hai?,weather,hi-Latn,expanded_weather_wind,train,authored_synthetic
+expanded_weather_wind_hi,हवा कितनी तेज़ चल रही है?,weather,hi,expanded_weather_wind,train,authored_synthetic
+expanded_weather_fog_en,Is there fog nearby?,weather,en,expanded_weather_fog,train,authored_synthetic
+expanded_weather_fog_hi-Latn,Aas paas kohra hai kya?,weather,hi-Latn,expanded_weather_fog,train,authored_synthetic
+expanded_weather_fog_hi,आसपास कोहरा है क्या?,weather,hi,expanded_weather_fog,train,authored_synthetic
+expanded_weather_snow_en,Is it snowing in Manali?,weather,en,expanded_weather_snow,train,authored_synthetic
+expanded_weather_snow_hi-Latn,Manali mein baraf gir rahi hai kya?,weather,hi-Latn,expanded_weather_snow,train,authored_synthetic
+expanded_weather_snow_hi,मनाली में बर्फ गिर रही है क्या?,weather,hi,expanded_weather_snow,train,authored_synthetic
+expanded_weather_storm_en,Are there any storm warnings?,weather,en,expanded_weather_storm,train,authored_synthetic
+expanded_weather_storm_hi-Latn,Toofan ki koi chetavani hai kya?,weather,hi-Latn,expanded_weather_storm,train,authored_synthetic
+expanded_weather_storm_hi,तूफ़ान की कोई चेतावनी है क्या?,weather,hi,expanded_weather_storm,train,authored_synthetic
+expanded_weather_cloud_en,Is the sky cloudy?,weather,en,expanded_weather_cloud,train,authored_synthetic
+expanded_weather_cloud_hi-Latn,Aasman mein badal hain kya?,weather,hi-Latn,expanded_weather_cloud,train,authored_synthetic
+expanded_weather_cloud_hi,आसमान में बादल हैं क्या?,weather,hi,expanded_weather_cloud,train,authored_synthetic
+expanded_navigation_parking_en,Guide me to a nearby parking lot,navigation,en,expanded_navigation_parking,train,authored_synthetic
+expanded_navigation_parking_hi-Latn,Paas ki parking tak le chalo,navigation,hi-Latn,expanded_navigation_parking,train,authored_synthetic
+expanded_navigation_parking_hi,पास की पार्किंग तक ले चलो,navigation,hi,expanded_navigation_parking,train,authored_synthetic
+expanded_navigation_restaurant_en,Find directions to a restaurant,navigation,en,expanded_navigation_restaurant,train,authored_synthetic
+expanded_navigation_restaurant_hi-Latn,Restaurant tak pahunchne ka rasta dikhao,navigation,hi-Latn,expanded_navigation_restaurant,train,authored_synthetic
+expanded_navigation_restaurant_hi,रेस्तराँ तक पहुँचने का रास्ता दिखाओ,navigation,hi,expanded_navigation_restaurant,train,authored_synthetic
+expanded_navigation_airport_en,Start a route to the airport,navigation,en,expanded_navigation_airport,train,authored_synthetic
+expanded_navigation_airport_hi-Latn,Airport tak ka route shuru karo,navigation,hi-Latn,expanded_navigation_airport,train,authored_synthetic
+expanded_navigation_airport_hi,हवाई अड्डे तक का रास्ता दिखाओ,navigation,hi,expanded_navigation_airport,train,authored_synthetic
+expanded_navigation_hotel_en,Guide me to the hotel,navigation,en,expanded_navigation_hotel,train,authored_synthetic
+expanded_navigation_hotel_hi-Latn,Hotel tak le chalo,navigation,hi-Latn,expanded_navigation_hotel,train,authored_synthetic
+expanded_navigation_hotel_hi,होटल तक ले चलो,navigation,hi,expanded_navigation_hotel,train,authored_synthetic
+expanded_navigation_station_en,How do I reach the railway station?,navigation,en,expanded_navigation_station,train,authored_synthetic
+expanded_navigation_station_hi-Latn,Railway station kaise pahunchun?,navigation,hi-Latn,expanded_navigation_station,train,authored_synthetic
+expanded_navigation_station_hi,रेलवे स्टेशन कैसे पहुँचूँ?,navigation,hi,expanded_navigation_station,train,authored_synthetic
+expanded_navigation_charger_en,Show the way to an EV charging station,navigation,en,expanded_navigation_charger,train,authored_synthetic
+expanded_navigation_charger_hi-Latn,EV charging station ka rasta dikhao,navigation,hi-Latn,expanded_navigation_charger,train,authored_synthetic
+expanded_navigation_charger_hi,ईवी चार्जिंग स्टेशन का रास्ता दिखाओ,navigation,hi,expanded_navigation_charger,train,authored_synthetic
+expanded_hvac_defrost_en,Defrost the windshield,hvac,en,expanded_hvac_defrost,train,authored_synthetic
+expanded_hvac_defrost_hi-Latn,Windshield ka defrost chalu karo,hvac,hi-Latn,expanded_hvac_defrost,train,authored_synthetic
+expanded_hvac_defrost_hi,विंडशील्ड का डीफ़्रॉस्ट चालू करो,hvac,hi,expanded_hvac_defrost,train,authored_synthetic
+expanded_hvac_recirculate_en,Enable cabin air recirculation,hvac,en,expanded_hvac_recirculate,train,authored_synthetic
+expanded_hvac_recirculate_hi-Latn,Cabin mein hawa ka recirculation chalu karo,hvac,hi-Latn,expanded_hvac_recirculate,train,authored_synthetic
+expanded_hvac_recirculate_hi,केबिन में हवा का रीसर्क्युलेशन चालू करो,hvac,hi,expanded_hvac_recirculate,train,authored_synthetic
+expanded_hvac_rear_en,Turn on the rear air conditioning,hvac,en,expanded_hvac_rear,train,authored_synthetic
+expanded_hvac_rear_hi-Latn,Peeche wala AC chalu karo,hvac,hi-Latn,expanded_hvac_rear,train,authored_synthetic
+expanded_hvac_rear_hi,पीछे वाला एसी चालू करो,hvac,hi,expanded_hvac_rear,train,authored_synthetic
+expanded_hvac_automatic_en,Switch climate control to automatic mode,hvac,en,expanded_hvac_automatic,train,authored_synthetic
+expanded_hvac_automatic_hi-Latn,Climate control ko auto mode mein karo,hvac,hi-Latn,expanded_hvac_automatic,train,authored_synthetic
+expanded_hvac_automatic_hi,क्लाइमेट कंट्रोल को ऑटो मोड में करो,hvac,hi,expanded_hvac_automatic,train,authored_synthetic
+expanded_hvac_heater_en,Turn on the cabin heater,hvac,en,expanded_hvac_heater,train,authored_synthetic
+expanded_hvac_heater_hi-Latn,Cabin ka heater chalu karo,hvac,hi-Latn,expanded_hvac_heater,train,authored_synthetic
+expanded_hvac_heater_hi,केबिन का हीटर चालू करो,hvac,hi,expanded_hvac_heater,train,authored_synthetic
+expanded_hvac_cooling_en,Make the cabin cooler,hvac,en,expanded_hvac_cooling,train,authored_synthetic
+expanded_hvac_cooling_hi-Latn,Cabin mein thandak badhao,hvac,hi-Latn,expanded_hvac_cooling,train,authored_synthetic
+expanded_hvac_cooling_hi,केबिन में ठंडक बढ़ाओ,hvac,hi,expanded_hvac_cooling,train,authored_synthetic
+expanded_media_album_en,Play my favorite album,media,en,expanded_media_album,train,authored_synthetic
+expanded_media_album_hi-Latn,Mera pasandida album bajao,media,hi-Latn,expanded_media_album,train,authored_synthetic
+expanded_media_album_hi,मेरा पसंदीदा एल्बम बजाओ,media,hi,expanded_media_album,train,authored_synthetic
+expanded_media_podcast_en,Play a podcast,media,en,expanded_media_podcast,train,authored_synthetic
+expanded_media_podcast_hi-Latn,Ek podcast chalao,media,hi-Latn,expanded_media_podcast,train,authored_synthetic
+expanded_media_podcast_hi,एक पॉडकास्ट चलाओ,media,hi,expanded_media_podcast,train,authored_synthetic
+expanded_media_radio_en,Tune the radio to an FM station,media,en,expanded_media_radio,train,authored_synthetic
+expanded_media_radio_hi-Latn,Radio par FM station lagao,media,hi-Latn,expanded_media_radio,train,authored_synthetic
+expanded_media_radio_hi,रेडियो पर एफएम स्टेशन लगाओ,media,hi,expanded_media_radio,train,authored_synthetic
+expanded_media_shuffle_en,Shuffle my music playlist,media,en,expanded_media_shuffle,train,authored_synthetic
+expanded_media_shuffle_hi-Latn,Meri music playlist shuffle karo,media,hi-Latn,expanded_media_shuffle,train,authored_synthetic
+expanded_media_shuffle_hi,मेरी संगीत प्लेलिस्ट शफ़ल करो,media,hi,expanded_media_shuffle,train,authored_synthetic
+expanded_media_repeat_en,Put this song on repeat,media,en,expanded_media_repeat,train,authored_synthetic
+expanded_media_repeat_hi-Latn,Is gaane ko repeat par lagao,media,hi-Latn,expanded_media_repeat,train,authored_synthetic
+expanded_media_repeat_hi,इस गाने को रिपीट पर लगाओ,media,hi,expanded_media_repeat,train,authored_synthetic
+expanded_media_seek_en,Rewind this podcast by ten seconds,media,en,expanded_media_seek,train,authored_synthetic
+expanded_media_seek_hi-Latn,Is podcast ko dus second peeche karo,media,hi-Latn,expanded_media_seek,train,authored_synthetic
+expanded_media_seek_hi,इस पॉडकास्ट को दस सेकंड पीछे करो,media,hi,expanded_media_seek,train,authored_synthetic
+expanded_unknown_time_en,What time is it?,unknown,en,expanded_unknown_time,train,authored_synthetic
+expanded_unknown_time_hi-Latn,Abhi kitne baje hain?,unknown,hi-Latn,expanded_unknown_time,train,authored_synthetic
+expanded_unknown_time_hi,अभी कितने बजे हैं?,unknown,hi,expanded_unknown_time,train,authored_synthetic
+expanded_unknown_timer_en,Set a timer for five minutes,unknown,en,expanded_unknown_timer,train,authored_synthetic
+expanded_unknown_timer_hi-Latn,Paanch minute ka timer lagao,unknown,hi-Latn,expanded_unknown_timer,train,authored_synthetic
+expanded_unknown_timer_hi,पाँच मिनट का टाइमर लगाओ,unknown,hi,expanded_unknown_timer,train,authored_synthetic
+expanded_unknown_calendar_en,What meetings do I have today?,unknown,en,expanded_unknown_calendar,train,authored_synthetic
+expanded_unknown_calendar_hi-Latn,Aaj meri kaun si meetings hain?,unknown,hi-Latn,expanded_unknown_calendar,train,authored_synthetic
+expanded_unknown_calendar_hi,आज मेरी कौन सी मीटिंग हैं?,unknown,hi,expanded_unknown_calendar,train,authored_synthetic
+expanded_unknown_translation_en,Translate hello into French,unknown,en,expanded_unknown_translation,train,authored_synthetic
+expanded_unknown_translation_hi-Latn,Hello ko French mein translate karo,unknown,hi-Latn,expanded_unknown_translation,train,authored_synthetic
+expanded_unknown_translation_hi,हैलो का फ़्रेंच में अनुवाद करो,unknown,hi,expanded_unknown_translation,train,authored_synthetic
+expanded_unknown_fact_en,Who wrote this book?,unknown,en,expanded_unknown_fact,train,authored_synthetic
+expanded_unknown_fact_hi-Latn,Yeh kitaab kisne likhi hai?,unknown,hi-Latn,expanded_unknown_fact,train,authored_synthetic
+expanded_unknown_fact_hi,यह किताब किसने लिखी है?,unknown,hi,expanded_unknown_fact,train,authored_synthetic
+expanded_unknown_email_en,Read my latest email,unknown,en,expanded_unknown_email,train,authored_synthetic
+expanded_unknown_email_hi-Latn,Mera sabse naya email padho,unknown,hi-Latn,expanded_unknown_email,train,authored_synthetic
+expanded_unknown_email_hi,मेरा सबसे नया ईमेल पढ़ो,unknown,hi,expanded_unknown_email,train,authored_synthetic

@@ -1,0 +1,11 @@
+# Local Compose setup. Binds only to localhost.
+services:
+  assistant:
+    build: .
+    ports:
+      - "127.0.0.1:8002:8000"
+    env_file:
+      - .env
+    volumes:
+      - ./models:/app/models:ro
+    restart: "no"
